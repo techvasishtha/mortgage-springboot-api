@@ -1,0 +1,6 @@
+com/canada/mortgage/repository/MortgageInfoRepository.class
+com/canada/mortgage/entity/User.class
+com/canada/mortgage/entity/MortgageInfo.class
+com/canada/mortgage/controller/UserController.class
+com/canada/mortgage/MortgageApplication.class
+com/canada/mortgage/repository/UserRepository.class
